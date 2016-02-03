@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="launcher_location" mtime="1140575077" type="string">
+                <stringvalue>gegl-0080d46aa0.desktop</stringvalue>
+        </entry>
+</gconf>

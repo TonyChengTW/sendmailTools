@@ -1,0 +1,63 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Tue Jan 10 02:53:33 2006 GMT by CPAN::Checksums (v1.039)
+$cksum = {
+  'HTML-WebMake-2.2.tar.gz' => {
+    'md5' => '154ca91d62619f18abd173bafe57c4f8',
+    'md5-ungz' => 'a522c106742c233eef497daf086ce3d0',
+    'mtime' => '2001-10-01',
+    'sha256' => 'df371343cea9a3748f6bfe2a957bb922d56741d7a34d7a474a1f8b44b66f5d72',
+    'sha256-ungz' => 'e80b20d96180111489dccbccd075e5959686f9acf70adfa97a71cfd2bd2eafb6',
+    'size' => 559459
+  },
+  'IPC-DirQueue-0.05.tar.gz' => {
+    'md5' => '4ceb6ae1882c5412c3daed7e30f04f3a',
+    'md5-ungz' => 'bb8229f324cd05113da442c051cd36aa',
+    'mtime' => '2005-04-22',
+    'sha256' => '48690d79e879ffe94d7eb8dbe3c0bef7c98145637b3c67cbd7a153a247c8bfd2',
+    'sha256-ungz' => '0c2ff54d2ad7626a80675472b42df695930828ae43375ed2e12ce195da9619ba',
+    'size' => 16861
+  },
+  'IPC-DirQueue-0.06.tar.gz' => {
+    'md5' => '8c06e0e6dc5c6483d3b7cbd510f3f6ec',
+    'md5-ungz' => 'df53c7dc4cff18e4881ba8453efa4945',
+    'mtime' => '2006-01-10',
+    'sha256' => '6e4be0b99ee2dd36608b3f6bfa7020d2b1005732add5241cb38334b6e63cf6ba',
+    'sha256-ungz' => '1221e25175084bafb8153e95a35f5494d562e6c783eb426ce1eef097b606b891',
+    'size' => 24726
+  },
+  'Mail-SpamAssassin-2.64.tar.gz' => {
+    'md5' => 'a82a9dab95462d102e253edb99091fdd',
+    'md5-ungz' => 'e0cbafa91fcdbd9ccce9bd8096382aaf',
+    'mtime' => '2004-08-05',
+    'sha256' => '5215f2cf8a5eb47af16a7419f260aee06ca28f1c05df6c33be63d274f6c1c2a7',
+    'sha256-ungz' => 'b0631fa986e5dae5bc651b8143bed0f4739ab76f15328eed0426675a8ed21a7f',
+    'size' => 826989
+  },
+  'Mail-SpamAssassin-3.1.0.tar.gz' => {
+    'md5' => 'f70c1fcab3d9563731bbc307eda7d69e',
+    'md5-ungz' => '6746bbacf769859ecf36431db78a3d74',
+    'mtime' => '2005-09-15',
+    'sha256' => 'c26523f7debb2a5b611e45f6f018295f3262b2276a307eb9ff592a408fa9e76c',
+    'sha256-ungz' => 'fb5627ab837a39a18b8dd05bdd22570c355b80d5f8157a9bef79cb514f754ebb',
+    'size' => 1185499
+  },
+  'Text-EtText-2.2.tar.gz' => {
+    'md5' => 'c267ef8d13f676b16c60cca203836898',
+    'md5-ungz' => '7bf9de7f67dbf4ccf535f4d4e8c8b7c2',
+    'mtime' => '2001-10-01',
+    'sha256' => 'c7c57797a0c680ada8ea3c81dae1284a623d94101b3f99834e2f2fe7f8a3c78c',
+    'sha256-ungz' => '5c02bb51d10dd4d8ca8202a33cb249332d2a4da556fca484685fec2d0814a5f4',
+    'size' => 148249
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.1 (GNU/Linux)
+
+iD8DBQFDwyGtMo2oZ0UPiewRAq8jAKCCU3rSR9YHFtR2AEq6/e+vhI7YSQCeI2N+
+1St/4g4b6stQZfknGxsH+uY=
+=jtjd
+-----END PGP SIGNATURE-----

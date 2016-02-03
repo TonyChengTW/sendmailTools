@@ -1,0 +1,16 @@
+$result=
+host tbc-mx01.apol.com.tw
+ip 203.79.224.57
+uptime  1:06
+cpu 101 142
+disk_/ 247 497 53%
+disk_/boot 20 101 22%
+disk_/dev/shm 0 1035 0%
+disk_/home 2680 24128 12%
+disk_/usr 2363 6940 36%
+disk_/var 204 1019 22%
+disk_/var/log 217 3850 6%
+disk_/var/postfix/queue 183 4893 4%
+smtpd 47 47
+mem 1302 2022
+mqueue 1 27

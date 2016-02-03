@@ -1,0 +1,12 @@
+SESSION STARTED at:  2006-03-07 11:52:43 CST +0800
+   Program Version:  NcFTP 3.1.9/190 Mar 24 2005, 07:18 PM
+   Library Version:  LibNcFTP 3.1.9 (March 19, 2005)
+        Process ID:  18599
+          Platform:  linux-x86
+          Hostname:  tbc-mx01.apol.com.tw  (rc=2)
+          Terminal:  xterm
+11:52:43  Fw:   Type: 0  User:   Pass: (none)  Port: 0
+11:52:43  FwExceptions: .apol.com.tw,localdomain
+11:52:45  > bye
+
+SESSION ENDED at:    Tue Mar  7 11:52:45 2006

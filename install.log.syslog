@@ -1,0 +1,69 @@
+<86>Feb 21 07:44:50 useradd[771]: new group: name=dbus, gid=81
+
+<86>Feb 21 07:44:50 useradd[771]: new user: name=dbus, uid=81, gid=81, home=/, shell=/sbin/nologin
+<86>Feb 21 07:45:11 groupadd[805]: new group: name=floppy, gid=19
+<86>Feb 21 07:45:11 useradd[806]: new group: name=vcsa, gid=69
+
+<86>Feb 21 07:45:11 useradd[806]: new user: name=vcsa, uid=69, gid=69, home=/dev, shell=/sbin/nologin
+<86>Feb 21 07:45:23 groupadd[825]: new group: name=rpm, gid=37
+<86>Feb 21 07:45:23 useradd[826]: new user: name=rpm, uid=37, gid=37, home=/var/lib/rpm, shell=/sbin/nologin
+<86>Feb 21 07:45:27 groupadd[851]: new group: name=utmp, gid=22
+<86>Feb 21 07:45:54 useradd[1788]: new group: name=haldaemon, gid=68
+
+<86>Feb 21 07:45:54 useradd[1788]: new user: name=haldaemon, uid=68, gid=68, home=/, shell=/sbin/nologin
+<86>Feb 21 07:46:30 groupadd[1840]: new group: name=slocate, gid=21
+<86>Feb 21 07:46:31 groupadd[1843]: new group: name=pcap, gid=77
+<86>Feb 21 07:46:31 useradd[1844]: new user: name=pcap, uid=77, gid=77, home=/var/arpwatch, shell=/sbin/nologin
+<86>Feb 21 07:46:45 useradd[1886]: new group: name=nscd, gid=28
+
+<86>Feb 21 07:46:45 useradd[1886]: new user: name=nscd, uid=28, gid=28, home=/, shell=/sbin/nologin
+<86>Feb 21 07:46:57 groupadd[1935]: new group: name=named, gid=25
+<86>Feb 21 07:46:57 useradd[1936]: new user: name=named, uid=25, gid=25, home=/var/named, shell=/sbin/nologin
+<86>Feb 21 07:47:01 groupadd[1975]: new group: name=netdump, gid=34
+<86>Feb 21 07:47:01 useradd[1976]: new user: name=netdump, uid=34, gid=34, home=/var/crash, shell=/bin/bash
+<86>Feb 21 07:47:06 useradd[1991]: new group: name=sshd, gid=74
+
+<86>Feb 21 07:47:06 useradd[1991]: new user: name=sshd, uid=74, gid=74, home=/var/empty/sshd, shell=/sbin/nologin
+<86>Feb 21 07:47:07 groupadd[1996]: new group: name=rpc, gid=32
+<86>Feb 21 07:47:07 useradd[1997]: new user: name=rpc, uid=32, gid=32, home=/, shell=/sbin/nologin
+<86>Feb 21 07:47:07 useradd[1999]: new group: name=mailnull, gid=47
+
+<86>Feb 21 07:47:07 useradd[1999]: new user: name=mailnull, uid=47, gid=47, home=/var/spool/mqueue, shell=/sbin/nologin
+<86>Feb 21 07:47:08 useradd[2000]: new group: name=smmsp, gid=51
+
+<86>Feb 21 07:47:08 useradd[2000]: new user: name=smmsp, uid=51, gid=51, home=/var/spool/mqueue, shell=/sbin/nologin
+<21>Feb 20 18:47:08 sendmail[2010]: alias database /etc/aliases rebuilt by root
+<22>Feb 20 18:47:08 sendmail[2010]: /etc/aliases: 76 aliases, longest 10 bytes, 765 bytes total
+<86>Feb 21 07:47:15 useradd[2047]: new group: name=rpcuser, gid=29
+
+<86>Feb 21 07:47:15 useradd[2047]: new user: name=rpcuser, uid=29, gid=29, home=/var/lib/nfs, shell=/sbin/nologin
+<86>Feb 21 07:47:16 useradd[2051]: new group: name=nfsnobody, gid=65534
+
+<86>Feb 21 07:47:16 useradd[2051]: new user: name=nfsnobody, uid=65534, gid=65534, home=/var/lib/nfs, shell=/sbin/nologin
+<86>Feb 21 07:47:48 useradd[2211]: new group: name=apache, gid=48
+
+<86>Feb 21 07:47:48 useradd[2211]: new user: name=apache, uid=48, gid=48, home=/var/www, shell=/sbin/nologin
+<86>Feb 21 07:48:22 useradd[2532]: new group: name=xfs, gid=43
+
+<86>Feb 21 07:48:22 useradd[2532]: new user: name=xfs, uid=43, gid=43, home=/etc/X11/fs, shell=/sbin/nologin
+<86>Feb 21 07:48:58 groupadd[2600]: new group: name=ntp, gid=38
+<86>Feb 21 07:48:58 useradd[2601]: new user: name=ntp, uid=38, gid=38, home=/etc/ntp, shell=/sbin/nologin
+<14>Feb 21 07:59:07 gconfd (root-2872): starting (version 2.10.0), pid 2872 user 'root'
+<14>Feb 21 07:59:07 gconfd (root-2872): Resolved address "xml:readonly:/etc/gconf/gconf.xml.mandatory" to a read-only configuration source at position 0
+<14>Feb 21 07:59:07 gconfd (root-2872): Resolved address "xml:readwrite:/root/.gconf" to a writable configuration source at position 1
+<14>Feb 21 07:59:07 gconfd (root-2872): Resolved address "xml:readonly:/etc/gconf/gconf.xml.defaults" to a read-only configuration source at position 2
+<14>Feb 21 07:59:07 gconfd (root-2872): Exiting
+<86>Feb 21 07:59:25 useradd[3150]: new group: name=gdm, gid=42
+
+<86>Feb 21 07:59:25 useradd[3150]: new user: name=gdm, uid=42, gid=42, home=/var/gdm, shell=/sbin/nologin
+<86>Feb 21 07:59:25 usermod[3151]: change user `gdm' shell from `/sbin/nologin' to `/sbin/nologin'
+<86>Feb 21 08:38:55 groupadd[4812]: new group: name=screen, gid=84
+<29>Feb 21 08:39:10 modprobe: WARNING: Error inserting ieee1394 (/lib/modules/2.6.11-1.1369_FC4/kernel/drivers/ieee1394/ieee1394.ko): Operation not permitted
+
+<29>Feb 21 08:39:10 modprobe: FATAL: Error inserting ohci1394 (/lib/modules/2.6.11-1.1369_FC4/kernel/drivers/ieee1394/ohci1394.ko): Operation not permitted
+
+<13>Feb 21 08:39:10 kudzu: ran mouseconfig for input/mice
+<87>Feb 20 19:42:26 userhelper[4831]: pam_timestamp: updated timestamp file `/var/run/sudo/root/tty1'
+<85>Feb 20 19:42:26 userhelper[4835]: running '/usr/share/system-config-display/system-config-display --reconfig --noui --set-card=ATI Mach64 --set-videoram=8128' with root privileges on behalf of 'root'
+<13>Feb 21 08:42:35 kudzu: ran system-config-display for Card:ATI Mach64
+<13>Feb 21 08:42:35 kudzu: aliased usb-controller as uhci-hcd

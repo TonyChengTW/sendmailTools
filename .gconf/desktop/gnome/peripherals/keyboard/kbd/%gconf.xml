@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gconf>
+        <entry name="model" mtime="1140575076" type="string">
+                <stringvalue>pc105</stringvalue>
+        </entry>
+        <entry name="layouts" mtime="1140575076" type="list" ltype="string">
+        <li type="string">
+                <stringvalue>us</stringvalue>
+        </li>
+        </entry>
+        <entry name="options" mtime="1140575076" type="list" ltype="string">
+        </entry>
+        <entry name="overrideSettings" mtime="1140575076" type="bool" value="false">
+        </entry>
+</gconf>

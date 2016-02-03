@@ -1,0 +1,89 @@
+  PID TTY      STAT   TIME COMMAND
+    1 ?        S      0:01 init [3]         
+    2 ?        S      0:00 [migration/0]
+    3 ?        SN     0:00 [ksoftirqd/0]
+    4 ?        S      0:00 [watchdog/0]
+    5 ?        S      0:00 [migration/1]
+    6 ?        SN     0:00 [ksoftirqd/1]
+    7 ?        S      0:00 [watchdog/1]
+    8 ?        S      0:00 [migration/2]
+    9 ?        SN     0:00 [ksoftirqd/2]
+   10 ?        S      0:00 [watchdog/2]
+   11 ?        S      0:00 [migration/3]
+   12 ?        SN     0:00 [ksoftirqd/3]
+   13 ?        S      0:00 [watchdog/3]
+   14 ?        S<     0:00 [events/0]
+   15 ?        S<     0:00 [events/1]
+   16 ?        S<     0:00 [events/2]
+   17 ?        S<     0:00 [events/3]
+   18 ?        S<     0:00 [khelper]
+   19 ?        S<     0:00 [kthread]
+   24 ?        S<     0:00 [kacpid]
+   96 ?        S<     0:00 [kblockd/0]
+   97 ?        S<     0:00 [kblockd/1]
+   98 ?        S<     0:00 [kblockd/2]
+   99 ?        S<     0:00 [kblockd/3]
+  102 ?        S      0:00 [khubd]
+  152 ?        S      0:00 [pdflush]
+  153 ?        S      0:00 [pdflush]
+  155 ?        S<     0:00 [aio/0]
+  156 ?        S<     0:00 [aio/1]
+  157 ?        S<     0:00 [aio/2]
+  158 ?        S<     0:00 [aio/3]
+  154 ?        S      0:00 [kswapd0]
+  244 ?        S      0:00 [kseriod]
+  417 ?        S      0:00 [scsi_eh_0]
+  438 ?        S      0:00 [scsi_eh_1]
+  439 ?        S      0:00 [ahd_dv_0]
+  441 ?        S      0:00 [scsi_eh_2]
+  442 ?        S      0:00 [ahd_dv_1]
+  457 ?        S      0:00 [kjournald]
+  987 ?        S<s    0:00 udevd
+ 1027 ?        S      0:00 [shpchpd_event]
+ 1346 ?        S      0:00 [kjournald]
+ 1347 ?        S      0:00 [kjournald]
+ 1348 ?        S      0:00 [kjournald]
+ 1349 ?        S      0:00 [kjournald]
+ 1698 ?        Ss     0:00 syslogd -m 0
+ 1700 ?        Ss     0:00 klogd -x
+ 1710 ?        Ss     0:00 portmap
+ 1728 ?        Ss     0:00 rpc.statd
+ 1742 ?        S<sl   0:00 auditd
+ 1744 ?        S<     0:00 [kauditd]
+ 1772 ?        Ss     0:00 rpc.idmapd
+ 1785 ?        Ss     0:00 hcid: processing events
+ 1787 ?        Ss     0:00 sdpd
+ 1815 ?        S<     0:00 [krfcommd]
+ 1946 ?        Ss     0:00 /usr/sbin/automount --timeout=60 /misc file /etc/auto.misc
+ 1985 ?        Ss     0:00 /usr/sbin/automount --timeout=60 /net program /etc/auto.net
+ 1999 ?        Ss     0:00 nifd -n
+ 2030 ?        Ssl    0:00 mDNSResponder
+ 2039 ?        Ss     0:00 /usr/sbin/acpid
+ 2048 ?        Ss     0:00 cupsd
+ 2145 ?        Ss     0:00 /usr/sbin/sshd
+ 2162 ?        Ss     0:00 sendmail: accepting connections
+ 2168 ?        Ss     0:00 sendmail: Queue runner@01:00:00 for /var/spool/clientmqueue
+ 2177 ?        Ss     0:00 gpm -m /dev/input/mice -t imps2
+ 2185 ?        Ss     0:00 crond
+ 2214 ?        Ss     0:00 xfs -droppriv -daemon
+ 2229 ?        Ss     0:00 /usr/sbin/atd
+ 2269 ?        S      0:00 /usr/libexec/gconfd-2 4
+  971 tty2     Ss+    0:00 /sbin/mingetty tty2
+  972 tty3     Ss+    0:00 /sbin/mingetty tty3
+  973 tty4     Ss+    0:00 /sbin/mingetty tty4
+  979 tty5     Ss+    0:00 /sbin/mingetty tty5
+  980 tty6     Ss+    0:00 /sbin/mingetty tty6
+ 1791 ?        Ssl    0:00 dbus-daemon --system
+ 1809 ?        Ss     0:00 cups-config-daemon
+ 1826 ?        Ss     0:00 hald --retain-privileges
+ 1854 ?        S      0:00 hald-addon-acpi
+ 2057 ?        S      0:01 hald-addon-storage
+24666 ?        Ssl    0:00 dbus-daemon --fork --print-pid 8 --print-address 6 --session
+  711 tty1     Ss+    0:00 /sbin/mingetty tty1
+ 2220 ?        Ss     0:00 sshd: root@pts/1 
+ 2222 pts/1    Ss     0:00 -bash
+ 5238 pts/1    S+     0:00 make install
+ 5546 pts/1    S+     0:00 /bin/sh postfix-install
+ 5658 ?        Ss     0:00 sshd: root@pts/2 
+ 5662 pts/2    Ss     0:00 -bash
+ 5694 pts/2    R+     0:00 ps ax

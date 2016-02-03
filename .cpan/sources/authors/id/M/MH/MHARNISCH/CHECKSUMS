@@ -1,0 +1,95 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Fri Nov 11 09:14:28 2005 GMT by CPAN::Checksums (v1.039)
+$cksum = {
+  'Syslog-0.91.tar.gz' => {
+    'md5' => 'e240a69c72ffe73df9d688376a83b937',
+    'md5-ungz' => '25060ad23c740c9deaca1aa0edfa19e0',
+    'mtime' => '1999-10-27',
+    'sha256' => '795b0017bad027e435842a2f29fd326e9eb3e1566442bae5c645eabeb99962ba',
+    'sha256-ungz' => '5c20d67d724fe23a50cd6a75a639fc0d179898ce24f94c676686460178acda6f',
+    'size' => 9631
+  },
+  'Syslog-0.92.tar.gz' => {
+    'md5' => '792cc9978ee1b73e6405891e35b4d7be',
+    'md5-ungz' => '754a1a059d08ffc24b2253c563bae562',
+    'mtime' => '1999-11-28',
+    'sha256' => '54ed474112efe8a50d24ae0bc46b9a7c30f6eed9b071d2f7bc4674c3dd6b8597',
+    'sha256-ungz' => 'a166ff01bb35b25b3f3b8989452929a12adeb71732f750ff258c7318c84fa9a3',
+    'size' => 9655
+  },
+  'Syslog-0.93.tar.gz' => {
+    'md5' => '0235d462ac9db2af623f7da6aa459e63',
+    'md5-ungz' => '7299740f2e3ad8542932c236a875e3e4',
+    'mtime' => '2000-03-15',
+    'sha256' => '34a9c4e938a169345a00ffda7ccf67aa5d867e417f96338f72ba6ef9f9c1514a',
+    'sha256-ungz' => '34281267e973d92de13c7eb632480dc9b0356d41b8fcc9a994a0f6613818bad0',
+    'size' => 9742
+  },
+  'Syslog-0.94.tar.gz' => {
+    'md5' => '4575cf5482121d0ed626fa6ea73f1ffe',
+    'md5-ungz' => '0dc24cb063822271c8b753d2920ea4b0',
+    'mtime' => '2000-08-20',
+    'sha256' => 'e0ead6565a47ceb11f47a008bc315230153707d76b56cd9cbfdd826300eb5e2a',
+    'sha256-ungz' => '4d6432fafacb60b922895ab9e4554ac767b39e0761c5a2d720c37f5f4cf30530',
+    'size' => 10128
+  },
+  'Syslog-0.95.tar.gz' => {
+    'md5' => 'b62a01a72bd45078d3d993015302d3da',
+    'md5-ungz' => '9f23dfba882930a7469fa14afd207015',
+    'mtime' => '2001-02-15',
+    'sha256' => 'd3266b2ef17698a8056f14aa4bd6350ce83dbca2d12e98f05b492c8cdbd89ffa',
+    'sha256-ungz' => '7c959f9ab10b80305a43ec636448082e24ef768b0c4cddea27a9a3184edf6f54',
+    'size' => 10573
+  },
+  'Syslog-0.96.tar.gz' => {
+    'md5' => 'c2b71d011614c9527e1822997ebb7130',
+    'md5-ungz' => 'cd1a97998b6796d8aa043c8eaccc9d8b',
+    'mtime' => '2001-09-26',
+    'sha256' => '6da033d297e1219c43af772c5165ad8010ee4b3d2443c2abf8cb82790b59c658',
+    'sha256-ungz' => '2e18c234a4abcd5cccccfc19179a74a7675a0c48f6e552ab5b9e653154478c67',
+    'size' => 10586
+  },
+  'Syslog-0.97.tar.gz' => {
+    'md5' => '52e5872aba9fbdb2163c2e4f9760fe5b',
+    'md5-ungz' => 'c9fafb8f91b1651fc848733549fe6254',
+    'mtime' => '2001-12-12',
+    'sha256' => '15107fed40c655f0b08c7e287b53fda4a3eb1fbe04eadc98ff252facb08c4b82',
+    'sha256-ungz' => '75887bfae67d29ffda913df2a0f6f69769eb869aea176458002247a6ebc91104',
+    'size' => 10808
+  },
+  'Unix-Syslog-0.100.tar.gz' => {
+    'md5' => '655d2e04a043b3e92d1bb47caf8e8a3b',
+    'md5-ungz' => '28f870ce70ff1b3f58fd7e342693e20d',
+    'mtime' => '2002-08-28',
+    'sha256' => '00996a2d98131145140a814079bae908919446f3ccd3b4b65da4ded14843232c',
+    'sha256-ungz' => 'caa0e69832f94168b6eda75c0ce563562c309709b73b195978437aeda4273934',
+    'size' => 11628
+  },
+  'Unix-Syslog-0.98.tar.gz' => {
+    'md5' => '28408a6e72aa05501af28e024e303bab',
+    'md5-ungz' => '3b5722f8379e3f831ea0f76fc9fad346',
+    'mtime' => '2002-01-23',
+    'sha256' => '22829ebb18e13e9fc267f5e6240054e22bf3b0f0adc1aeffa51780ad4121fa8c',
+    'sha256-ungz' => '761806dd6d30cf4c4d7be1c05795a8116904b1bc0056fb0f1f15afc69ede6779',
+    'size' => 11363
+  },
+  'Unix-Syslog-0.99.tar.gz' => {
+    'md5' => '0f16c5e4e65cb51df9a0342318b1f221',
+    'md5-ungz' => '67b65ad34ad84b98c9c51431d3d39bb2',
+    'mtime' => '2002-08-15',
+    'sha256' => '4318d0eb7e6dafdfef96c917b4ca5c1022f70e1d194f66a9eaecf6cb1a7b7a6e',
+    'sha256-ungz' => '30c454b3eccb9f702b21449eb2b63c3e665614e12db212197d2d2905828bf012',
+    'size' => 12499
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.1 (GNU/Linux)
+
+iD8DBQFDdGD0Mo2oZ0UPiewRAowQAJ9Te5AOGTAHfxyoUvkBVq1XTSQ/ygCcCoWZ
+GP7l5D899o3SpcPEFMZg0DQ=
+=xbvZ
+-----END PGP SIGNATURE-----

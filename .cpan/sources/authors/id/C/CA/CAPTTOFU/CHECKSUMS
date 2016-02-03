@@ -1,0 +1,167 @@
+0&&<<''; # this PGP-signed message is also valid perl
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+# CHECKSUMS file written on Wed Feb  1 23:36:24 2006 GMT by CPAN::Checksums (v1.039)
+$cksum = {
+  'DB-0.99_0.tar.gz' => {
+    'md5' => '01e8f9df6c457255c0ffab0da8b63bda',
+    'md5-ungz' => 'a8e04467962036aecadb607defe7ff95',
+    'mtime' => '2005-07-14',
+    'sha256' => '5fd59ef1558674b02848689397ec092d7a00c80a0c7e97f0e0e1796bd71ff096',
+    'sha256-ungz' => 'b2a54fc74027c44de320a5db731f5fa9e38f5b647978abad07d4744b1e8ab087',
+    'size' => 4823
+  },
+  'DBD-mysql-2.9005.tar.gz' => {
+    'md5' => 'd265bb6ce92ab9377e5b7a66c2e8cbe8',
+    'md5-ungz' => '0705ddc3ba504713ab1b65e1edb99380',
+    'mtime' => '2005-03-29',
+    'sha256' => '6317100e2c9903550a722de920c80db099c4b46a98e4d1283d9d36ec0e231ccd',
+    'sha256-ungz' => 'e72e24006134160692deff73155d6b7f7f4bcc1933b4c1a4f04f8bbb5718b2fd',
+    'size' => 115977
+  },
+  'DBD-mysql-2.9007.meta' => {
+    'md5' => '695028f7c532427edf7daecf19297ad3',
+    'mtime' => '2005-04-27',
+    'sha256' => '2b4434c16d3b370cb2d951c32263feea1a0cc722929a911ae0503b1c07746e00',
+    'size' => 328
+  },
+  'DBD-mysql-2.9007.tar.gz' => {
+    'md5' => 'ba72f4f604b2457d767d95ba8690ff66',
+    'md5-ungz' => '53b8c29e5945dfd5856aaa33ed6e537b',
+    'mtime' => '2005-04-27',
+    'sha256' => '630dc1998a8b41c169da9f5e0ae86c62a24f3a6d0b8c4ae83cfa523acbbe3a49',
+    'sha256-ungz' => 'd6946366591072d16364e88badd1669607106d66b03a0f4bfac80e9615666148',
+    'size' => 116789
+  },
+  'DBD-mysql-2.9015_3.tar.gz' => {
+    'md5' => '59dd00e7491a45c168907423c1ac30af',
+    'md5-ungz' => 'ea7eeffadc876ab64fdbe9bdc942ae9d',
+    'mtime' => '2005-04-27',
+    'sha256' => '67abc924917b1c7f84a44621df5dd65c933af302aaf4d85cfe44b9aa0a635dbd',
+    'sha256-ungz' => 'e7ed71b14fe246ca0cec57d157f752e0d992e1330cbea4bbe67e3ca0c03e9673',
+    'size' => 129015
+  },
+  'DBD-mysql-3.0000.meta' => {
+    'md5' => 'f7f5bec18a6c19535e1c1f73d9589aa8',
+    'mtime' => '2005-07-01',
+    'sha256' => 'aa1f22873bd3ebeb5198b44233b1630905c03e7231cff5f7fb9381eb2e275442',
+    'size' => 328
+  },
+  'DBD-mysql-3.0000.tar.gz' => {
+    'md5' => '22a5da950cd3afedeec8eafdb4429528',
+    'md5-ungz' => '5de88f56656217ebe66da06dc86960b2',
+    'mtime' => '2005-07-01',
+    'sha256' => 'be0a6ea735381098e3e2bb4e1f4531de6a4504d59410096ba02e5cdb1bd5a766',
+    'sha256-ungz' => 'f174ebbe14102b86e1b329e77b46284eadc02b829decc11631cdb1d7dd91340c',
+    'size' => 128793
+  },
+  'DBD-mysql-3.0000_0.tar.gz' => {
+    'md5' => '208b8057876dc275e6eea7bde8bf83a8',
+    'md5-ungz' => 'a128d9ed2990ea770b2648e7f82b9884',
+    'mtime' => '2005-07-03',
+    'sha256' => '84ff319105699929dc150ef94a507a6d610e3fcd751323410ee3cdf920b2982e',
+    'sha256-ungz' => '01904366caff19208021d4aaad4b8d490aaaafa163600f26824a2adf69626078',
+    'size' => 129207
+  },
+  'DBD-mysql-3.0001.meta' => {
+    'md5' => '9184867e036c60d9a689c24c38e6c7c5',
+    'mtime' => '2005-07-07',
+    'sha256' => '0d9881833418a87036533b1275883dce9d3c725fa0de2527ef07760cfef30267',
+    'size' => 328
+  },
+  'DBD-mysql-3.0001.tar.gz' => {
+    'md5' => '70d1d33e906e896194a747fc23c22f1f',
+    'md5-ungz' => 'bb084383e900ef6bf20644dc532f807c',
+    'mtime' => '2005-07-07',
+    'sha256' => 'cf56207fb3517e475d278dbbd3ae89f47d88b7803299ce815c5e83b70589bd0d',
+    'sha256-ungz' => '7a9aa269de298da05cae859b85254aa94912b6367ea40f53f325085c0d5d8616',
+    'size' => 129946
+  },
+  'DBD-mysql-3.0001_1.tar.gz' => {
+    'md5' => '66bd6057709d704cf9d1bca606cb6af2',
+    'md5-ungz' => '81ee38211c655f8ff9f337067a38c1a6',
+    'mtime' => '2005-07-04',
+    'sha256' => '8ed52c55361493347cd75ae67bb36ebefd8724e4e05290c677d30e643f946e8d',
+    'sha256-ungz' => 'e69be56bb1476f87a1e4c214577f48b338f96dcc8281bb1d439f36a3680382e7',
+    'size' => 129396
+  },
+  'DBD-mysql-3.0001_2.tar.gz' => {
+    'md5' => '389bc9aa22659ac5f190279c8bd1c65d',
+    'md5-ungz' => 'e7c6dbe50ceaf300bfe06c34ee9d2ade',
+    'mtime' => '2005-07-07',
+    'sha256' => '1ffaa2642abdd66c28b46342a31ac879ef28606ebc3a39ca540abb5d4c83467b',
+    'sha256-ungz' => '8bfd3665282c46209fe3487d3d99799ca51662ab43ff0ddffdd948b6ffd07201',
+    'size' => 130209
+  },
+  'DBD-mysql-3.0001_3.tar.gz' => {
+    'md5' => '174a82efe4db20492228e97473dec81a',
+    'md5-ungz' => 'f914a93e6d526185ba6cf0e83707695a',
+    'mtime' => '2005-07-08',
+    'sha256' => '508f88e62f3e96e3659a81c446202bf436200a7f954b31961eec03076b6660d9',
+    'sha256-ungz' => '8d844a1b59f331bee9c03352c7c1cb51f438ff0e5cbf2009b1736dfb706563cd',
+    'size' => 130279
+  },
+  'DBD-mysql-3.0002.meta' => {
+    'md5' => '528290a6a083de11d3fc83427606b023',
+    'mtime' => '2005-07-11',
+    'sha256' => 'a68a2a0ac7d15bfdb6aa4458303c7bd6ccf2e5788656b39fe5fcbc97264b7c40',
+    'size' => 328
+  },
+  'DBD-mysql-3.0002.tar.gz' => {
+    'md5' => 'df70ba084c97f5f7c2a997c3de2f0ad0',
+    'md5-ungz' => '0e822139f506bed8c5a106a9ad349f85',
+    'mtime' => '2005-07-11',
+    'sha256' => '90f3f767a25b692aa2775bf919886df48fe1146acf1f885a84eeb14909cbf12f',
+    'sha256-ungz' => '02abfad25ec7a75d6fa0f6fcd33540505a7cf15ead457e2216ba2ea695cadb35',
+    'size' => 130077
+  },
+  'DBD-mysql-3.0002_1.tar.gz' => {
+    'md5' => '9cda473643e587c39bbfec0350783747',
+    'md5-ungz' => '999f5f9678bc38e4946f0ec684658239',
+    'mtime' => '2005-08-04',
+    'sha256' => '428ffa423bd052a314e7a592e84dbf06cca429a1c0f69716a1186aba92d9d961',
+    'sha256-ungz' => '861f0236bdb9a07f87f0b222084aedd2de1c9450ee5537bfbfd6bb3ae8a981eb',
+    'size' => 130596
+  },
+  'DBD-mysql-3.0002_2.tar.gz' => {
+    'md5' => 'c50bbcf62264c748ce588ac1173bac1a',
+    'md5-ungz' => '0cea4213288c98382df9f60153c01198',
+    'mtime' => '2005-09-26',
+    'sha256' => 'e52ab698c35a1fbb70ffea796de96b8daaa3edadf7cf311655ebc47fdec11284',
+    'sha256-ungz' => '4809184f6a5eabc2bc60db6e7eb300f0663359300f90c1fbef1b4acd8c7e83f3',
+    'size' => 132367
+  },
+  'DBD-mysql-3.0002_3.tar.gz' => {
+    'md5' => 'aad54b5283f38ebeae9b79d2233cba69',
+    'md5-ungz' => 'e97301a9c6fe4f40d42b54026da0d7c2',
+    'mtime' => '2005-09-28',
+    'sha256' => '739bea539e8193f2afadef77e1d0a865ddc3cb3feda79b12febed74bfa1708d2',
+    'sha256-ungz' => '2a4ebc18547b18740c130d8a465ac4ad2d518a2134657b22ccc99548b68e25fa',
+    'size' => 132750
+  },
+  'DBD-mysql-3.0002_4.tar.gz' => {
+    'md5' => 'b7af9ac85a776f53cf82b7326a15d4e6',
+    'md5-ungz' => 'b6969d8a831711ac0d56f020846e33ec',
+    'mtime' => '2005-11-06',
+    'sha256' => 'a9be84348cc02968e692ce09513d2009a87e4170dd7e25e2c88cfee191f5a63f',
+    'sha256-ungz' => '017fc14a591ea26a3fa6e252d2fec8af4dfca186a82aa507a2bf77185b26a23e',
+    'size' => 135716
+  },
+  'DBD-mysql-3.0002_5.tar.gz' => {
+    'md5' => 'b0713c54458adce7171f2a8e2c59dfaa',
+    'md5-ungz' => '4c757c828f1befa56ede958415b49f18',
+    'mtime' => '2006-02-01',
+    'sha256' => '01758132482bfcee4c1f66e24e887b5a86a018f8180a38faec2f937966afbea6',
+    'sha256-ungz' => '7a3b15f4788fe8d6d86e061e7e943bfcca5adea935613c5fb696f5e2ad47085b',
+    'size' => 136215
+  }
+};
+__END__
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.1 (GNU/Linux)
+
+iD8DBQFD4UX5Mo2oZ0UPiewRAqUCAJ0dEqZRh4AgAj78RYUtHYzfhTVv/wCeLQOK
+VnxY0EaDD31cRQQhKB+LLqE=
+=4nVg
+-----END PGP SIGNATURE-----
