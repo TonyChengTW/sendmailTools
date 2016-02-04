@@ -11,7 +11,7 @@ $tercel_database="dialup";
 $tercel_hostname="tercel";
 $tercel_port="3306";
 $tercel_user="brucelai";
-$tercel_password="ezmailat60";
+$tercel_password="xxxxxxx";
 
 $file = "/var/postfix/config/local_rcpt.map";
 
